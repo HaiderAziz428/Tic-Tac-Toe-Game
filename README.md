@@ -17,7 +17,7 @@ A classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. This project de
 
 ## Demo
 
-You can try out the game [here](#).
+You can try out the game [here](https://haideraziz428.github.io/Tic-Tac-Toe-Game/).
 
 ## Features
 
